@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.3",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.3/IPTV-Plus-Setup-1.0.3.exe",
-    "notes":  "Validation de la mise a jour integree : telechargement et installation directement dans l\u0027app, sans navigateur."
+    "version":  "1.0.4",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.4/IPTV-Plus-Setup-1.0.4.exe",
+    "notes":  "Mise a jour silencieuse et propre (sans assistant ni double installation) et message de MAJ simplifie."
 }
