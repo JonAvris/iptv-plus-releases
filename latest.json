@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.5",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.5/IPTV-Plus-Setup-1.0.5.exe",
-    "notes":  "Validation du flux de mise a jour silencieux et integre."
+    "version":  "1.0.6",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.6/IPTV-Plus-Setup-1.0.6.exe",
+    "notes":  "Installation propre : dossier IPTV Plus corrige et installation silencieuse fiable (sans fenetre)."
 }
