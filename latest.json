@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.11",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.11/IPTV-Plus-Setup-1.0.11.exe",
-    "notes":  "Demonstration du nouvel ecran de mise a jour (splash)."
+    "version":  "1.0.12",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.12/IPTV-Plus-Setup-1.0.12.exe",
+    "notes":  "Tri \u0027Date de sortie\u0027 des films par date reelle (fiche du film), mise en cache et actualisee."
 }
