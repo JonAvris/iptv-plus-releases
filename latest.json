@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.7",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.7/IPTV-Plus-Setup-1.0.7.exe",
-    "notes":  "Nouvelle version de test du flux de mise a jour silencieux."
+    "version":  "1.0.8",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.8/IPTV-Plus-Setup-1.0.8.exe",
+    "notes":  "Mise a jour invisible et fiable (correction de la boucle d\u0027installation)."
 }
