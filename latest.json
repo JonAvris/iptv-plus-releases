@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.0/IPTV-Plus-Setup-1.0.0.exe",
-  "notes": "Version initiale d'IPTV Plus."
+    "version":  "1.0.1",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.1/IPTV-Plus-Setup-1.0.1.exe",
+    "notes":  "Correction: l\u0027application pouvait s\u0027ouvrir en plusieurs fenetres simultanees."
 }
