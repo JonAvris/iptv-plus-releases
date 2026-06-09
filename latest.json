@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.14",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.14/IPTV-Plus-Setup-1.0.14.exe",
-    "notes":  "Fiches Film et Serie repensees (presentation cinematographique plein ecran, infos et boutons revus, mise a jour en direct) et ecran Films modernise (grille premium, fiche detaillee, compteurs de categories)."
+    "version":  "1.0.15",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.15/IPTV-Plus-Setup-1.0.15.exe",
+    "notes":  "Nouvelle identite visuelle : icone, logo (header) et ecran de mise a jour repenses. Corrections : notification de mise a jour plus fiable (re-verification automatique), bouton pour retirer un titre de Reprendre depuis sa fiche, icone du menu Reprendre."
 }
