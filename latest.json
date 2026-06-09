@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.15",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.15/IPTV-Plus-Setup-1.0.15.exe",
-    "notes":  "Nouvelle identite visuelle : icone, logo (header) et ecran de mise a jour repenses. Corrections : notification de mise a jour plus fiable (re-verification automatique), bouton pour retirer un titre de Reprendre depuis sa fiche, icone du menu Reprendre."
+    "version":  "1.0.16",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.16/IPTV-Plus-Setup-1.0.16.exe",
+    "notes":  "Accueil repense : rail Tendances Top 10 (films + series), upsell pleine largeur en edition Plus. Theme Ultra passe en violet/rose (badge ULTRA, bandeau upsell). Etiquettes Serie (violet) / Film (rose) sur les cartes. Ajustements du logo et du degrade."
 }
