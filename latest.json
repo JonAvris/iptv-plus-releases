@@ -1,5 +1,10 @@
 {
-    "version":  "1.0.17",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.17/IPTV-Plus-Setup-1.0.17.exe",
-    "notes":  "Icone de l\u0027application corrigee. Lecteur en direct plus resistant aux coupures reseau. Securite et fiabilite des donnees renforcees."
+    "version":  "1.0.18",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.18/IPTV-Plus-Setup-1.0.18.exe",
+    "notes":  "Audit complet : robustesse du lecteur et des comptes, mises a jour securisees (signature), interface et performances ameliorees.",
+    "sha256":  "932472bb2acb594aad540cac31b73a0f621bbe55d1d1b0b86f8c3dad04239bbc",
+    "revoked":  [
+
+                ],
+    "sig":  "snwsm3PwkKHoEkU-jnLJhksGkCyCkB_snO14Ya5eJIW_s2glKYn3qIbdrBcLxKtemN4GUPD-UXBnnTWbE_brDg"
 }
