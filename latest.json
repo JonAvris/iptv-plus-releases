@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.16",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.16/IPTV-Plus-Setup-1.0.16.exe",
-    "notes":  "Accueil repense : rail Tendances Top 10 (films + series), upsell pleine largeur en edition Plus. Theme Ultra passe en violet/rose (badge ULTRA, bandeau upsell). Etiquettes Serie (violet) / Film (rose) sur les cartes. Ajustements du logo et du degrade."
+    "version":  "1.0.17",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.17/IPTV-Plus-Setup-1.0.17.exe",
+    "notes":  "Icone de l\u0027application corrigee. Lecteur en direct plus resistant aux coupures reseau. Securite et fiabilite des donnees renforcees."
 }
