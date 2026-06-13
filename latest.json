@@ -1,10 +1,10 @@
 {
-    "version":  "1.0.19",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.19/IPTV-Plus-Setup-1.0.19.exe",
-    "notes":  "Recherche fiabilisee (fini le \u003c\u003c Rien a afficher \u003e\u003e) et limitee aux categories affichees ; fiche film sans boutons rognes ; barre Films/Series au format segmente de l\u0027accueil + tri epure ; installation des mises a jour durcie.",
-    "sha256":  "e2f17cf39c2c7a082bbc86e6c09072d225e75dfa384fc5a3874324718530db72",
+    "version":  "1.0.20",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.20/IPTV-Plus-Setup-1.0.20.exe",
+    "notes":  "IPTV Plus 1.0.20 — Nouvel ecran Chaines (cartes + programme en cours, grille EPG horaire, guide par chaine + Replay, favoris), lecteur video repense (Films / Series / Direct), accueil \u0027Se connecter\u0027 + connexion en 1 clic, ecran Parametres refait, programme en cours visible aussi en edition gratuite, nombreuses finitions UI.",
+    "sha256":  "42b56c731d2d6f0b872d3998cc3d06493fb7ba2ac7c591520a3ca8a7150f6d9c",
     "revoked":  [
 
                 ],
-    "sig":  "p4YOSGTo3H_1KKHJiggYmuuP1ynbIKxicZiE4tavzNJcVfn_pq02sY-674boMMvPjABX6HRkHcsVoqnbSl9kBg"
+    "sig":  "9c3m7br99CLPNzmarAmEIhVQzzCJ0wUVlPrbU-Q7vX8qPjjfw8eKDTM8ODSGF0Tm4sUREBCsNzMplZDAXDB3Cw"
 }
