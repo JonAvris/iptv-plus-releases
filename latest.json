@@ -1,10 +1,10 @@
 {
-    "version":  "1.1.1",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.1/IPTV-Plus-Setup-1.1.1.exe",
-    "notes":  "IPTV Plus 1.1.1 - Lecteur serie facon Netflix : liste d\u0027episodes integree au lecteur + enchainement automatique de l\u0027episode suivant. Recherche plus soignee (chargement et resultats), icone agrandie, splash de mise a jour a barre sombre, et corrections de securite et de stabilite.",
-    "sha256":  "cb8b399cc1eb072d863856af241188b32ac5d8a9452ff677560acef8ecc432dc",
+    "version":  "1.1.2",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.2/IPTV-Plus-Setup-1.1.2.exe",
+    "notes":  "IPTV Plus 1.1.2 - Correctif lecteur : la barre de controle (overlay) reapparait de nouveau au mouvement de la souris apres un clic sur un bouton (elle ne reste plus masquee derriere la video). Raccourcis clavier du lecteur plus fiables.",
+    "sha256":  "ef1ac47d05438c76dbc2b64a9e8d505926891aa76db5d849e5e8fb339f6393d0",
     "revoked":  [
 
                 ],
-    "sig":  "9WqBQrUpznUka0G7xcqFNlka-di8WsQUGSWN4Ud6Je3VRW4VLC_zTyDuWjgLEfoCY7KRIwACN8I65nWGF4LGCA"
+    "sig":  "BgzKAUvd9wtAgYXjElGTP32ExwnSVtS8QPvX2oM9_xQ1n5UZsGW9jJavXqUu6lz0MzKhh0TBvIcqsBthRBOHCA"
 }
