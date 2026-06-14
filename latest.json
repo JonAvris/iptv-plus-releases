@@ -1,10 +1,10 @@
 {
-    "version":  "1.0.21",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.0.21/IPTV-Plus-Setup-1.0.21.exe",
-    "notes":  "Lecteur : badges langue/qualite (haut-droite) + titre epure, qualite reelle detectee par mpv, listes audio/sous-titres redessinees (popup custom). Volet telecommande modernise (noms epures + badges). Fiches Films/Series : pastille qualite (cache persistant) + boutons Vu/A voir colores. Accueil : heros en 3 zones, titres masques sur les affiches. Titres nettoyes (|FR|, annee).",
-    "sha256":  "e6dabf81fba38bcb7cf4e14b3178f747a6412afb23ee4822c0cad0c2678cf808",
+    "version":  "1.1.0",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.0/IPTV-Plus-Setup-1.1.0.exe",
+    "notes":  "v1.1.0 - Refonte UI complete + lecteur premium. UI entierement refaite (Accueil, Chaines, Films, Series, Fiches, Parametres). Lecteur facon Netflix : flash play/pause central, spinner de chargement degrade, badges langue/qualite, sauts +/-10s, listes audio/sous-titres custom, volet telecommande modernise. Logos de chaines recentres + placeholder icone app quand absent. Grille chaines responsive. Qualite films/series detectee (cache mpv). Titres epures partout. Corrections : \u0027Lire\u0027 lance la lecture, \u0027Direct\u0027 relance apres pause, retrait des series de Reprendre, etc.",
+    "sha256":  "1ac47096b31336d8e135aa323098a0ec8e632041ad3d5c09b09c67b7e7c8e0ae",
     "revoked":  [
 
                 ],
-    "sig":  "3FtfXHAt4LERKkaVOnehKzOasj2TY-WYRW_IEN-iAkIkB69rs-oApRwn3I-_MEhX4MydOxURZ16c9OTCQsrtBA"
+    "sig":  "qGIT94akoZ8apk7-ski5eYKHFK2m-7iScUcIFjarTo75bV563tGAGOUzwWJBmnJ_VUd0FWcj6Yy5wvVNB7ZcAQ"
 }
