@@ -1,10 +1,10 @@
 {
-    "version":  "1.1.0",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.0/IPTV-Plus-Setup-1.1.0.exe",
-    "notes":  "v1.1.0 - Refonte UI complete + lecteur premium. UI entierement refaite (Accueil, Chaines, Films, Series, Fiches, Parametres). Lecteur facon Netflix : flash play/pause central, spinner de chargement degrade, badges langue/qualite, sauts +/-10s, listes audio/sous-titres custom, volet telecommande modernise. Logos de chaines recentres + placeholder icone app quand absent. Grille chaines responsive. Qualite films/series detectee (cache mpv). Titres epures partout. Corrections : \u0027Lire\u0027 lance la lecture, \u0027Direct\u0027 relance apres pause, retrait des series de Reprendre, etc.",
-    "sha256":  "1ac47096b31336d8e135aa323098a0ec8e632041ad3d5c09b09c67b7e7c8e0ae",
+    "version":  "1.1.1",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.1/IPTV-Plus-Setup-1.1.1.exe",
+    "notes":  "IPTV Plus 1.1.1 - Lecteur serie facon Netflix : liste d\u0027episodes integree au lecteur + enchainement automatique de l\u0027episode suivant. Recherche plus soignee (chargement et resultats), icone agrandie, splash de mise a jour a barre sombre, et corrections de securite et de stabilite.",
+    "sha256":  "cb8b399cc1eb072d863856af241188b32ac5d8a9452ff677560acef8ecc432dc",
     "revoked":  [
 
                 ],
-    "sig":  "qGIT94akoZ8apk7-ski5eYKHFK2m-7iScUcIFjarTo75bV563tGAGOUzwWJBmnJ_VUd0FWcj6Yy5wvVNB7ZcAQ"
+    "sig":  "9WqBQrUpznUka0G7xcqFNlka-di8WsQUGSWN4Ud6Je3VRW4VLC_zTyDuWjgLEfoCY7KRIwACN8I65nWGF4LGCA"
 }
