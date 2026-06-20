@@ -6,10 +6,10 @@
     "revoked":  [
 
                 ],
-    "sig":  "AbPMMQ_FWWK7X2GlYuTc50H-q4Z4TqOOqfSStn4M8W6ycipFBOqB5lRsroLy10dYmrThZqirIRHRYbieEuFdDw",
+    "sig":  "AWZ1uk70tbE-xXwWxce2reB4XINb_L9p0jy5kkKns7MpEwyxJRs-jSxAKa1xIsJU56IZVGXJL_lP8ZBJg4y_DQ",
     "app":  {
                 "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.3/IPTV-Plus-app-1.1.3.zip",
                 "sha256":  "503ee289da64269ee126bbcf4e6baaf2223d522743e15957a27cca4c7d079ad8"
             },
-    "appSig":  null
+    "appSig":  "bqsqE4zUMVmEMnxitf-x1KrFZ9kcE9DcClJcIxQbTcQP2jzKwbP4Rcn-Gy3DpOZRcOlUtM-Lra18mgkYHCEnDQ"
 }
