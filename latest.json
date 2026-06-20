@@ -1,15 +1,15 @@
 {
-    "version":  "1.1.3",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.3/IPTV-Plus-Setup-1.1.3.exe",
-    "notes":  "Mises a jour integrees en un clic (telechargement, installation et redemarrage automatiques) - Accueil : image du heros mieux cadree",
-    "sha256":  "227d8d1d72a8abfaa21a88198cf28297f11e60a56e4feefa3f9b09f2ce7f2027",
+    "version":  "1.1.4",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.4/IPTV-Plus-Setup-1.1.4.exe",
+    "notes":  "Validation de la mise a jour integree en un clic + corrections internes",
+    "sha256":  "d24be795b10acc8ccbb811c2cd94712bde440d7a5841c68cbf21e740fea0c227",
     "revoked":  [
 
                 ],
-    "sig":  "AWZ1uk70tbE-xXwWxce2reB4XINb_L9p0jy5kkKns7MpEwyxJRs-jSxAKa1xIsJU56IZVGXJL_lP8ZBJg4y_DQ",
+    "sig":  "ClIvNlstHkNg6j5RJ3qQfXC2YIGbFBHwGBVm56J43d76bCy3ASoOxf41E73NEamECgGkT2sEpDRvMmpOqYqDDA",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.3/IPTV-Plus-app-1.1.3.zip",
-                "sha256":  "503ee289da64269ee126bbcf4e6baaf2223d522743e15957a27cca4c7d079ad8"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.4/IPTV-Plus-app-1.1.4.zip",
+                "sha256":  "894f3b43e04c515fbcbe244537784ac52edada5e213417f71f1c44081b35ef4a"
             },
-    "appSig":  "bqsqE4zUMVmEMnxitf-x1KrFZ9kcE9DcClJcIxQbTcQP2jzKwbP4Rcn-Gy3DpOZRcOlUtM-Lra18mgkYHCEnDQ"
+    "appSig":  "6T1NB1_889PuoAbabt991WkSNnwV8kuNgJynkGf9yqpF4YNr-Mt3MFCRmbZ920-X_Nx6vT4Mr9lKG7mVPfTDAg"
 }
