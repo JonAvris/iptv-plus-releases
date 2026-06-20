@@ -1,10 +1,15 @@
 {
-    "version":  "1.1.2",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.2/IPTV-Plus-Setup-1.1.2.exe",
-    "notes":  "IPTV Plus 1.1.2 - Correctif lecteur : la barre de controle (overlay) reapparait de nouveau au mouvement de la souris apres un clic sur un bouton (elle ne reste plus masquee derriere la video). Raccourcis clavier du lecteur plus fiables.",
-    "sha256":  "ef1ac47d05438c76dbc2b64a9e8d505926891aa76db5d849e5e8fb339f6393d0",
+    "version":  "1.1.3",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.3/IPTV-Plus-Setup-1.1.3.exe",
+    "notes":  "Mises a jour integrees en un clic (telechargement, installation et redemarrage automatiques) - Accueil : image du heros mieux cadree",
+    "sha256":  "227d8d1d72a8abfaa21a88198cf28297f11e60a56e4feefa3f9b09f2ce7f2027",
     "revoked":  [
 
                 ],
-    "sig":  "BgzKAUvd9wtAgYXjElGTP32ExwnSVtS8QPvX2oM9_xQ1n5UZsGW9jJavXqUu6lz0MzKhh0TBvIcqsBthRBOHCA"
+    "sig":  "AbPMMQ_FWWK7X2GlYuTc50H-q4Z4TqOOqfSStn4M8W6ycipFBOqB5lRsroLy10dYmrThZqirIRHRYbieEuFdDw",
+    "app":  {
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.3/IPTV-Plus-app-1.1.3.zip",
+                "sha256":  "503ee289da64269ee126bbcf4e6baaf2223d522743e15957a27cca4c7d079ad8"
+            },
+    "appSig":  null
 }
