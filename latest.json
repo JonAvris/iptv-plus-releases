@@ -1,15 +1,15 @@
 {
-    "version":  "1.1.5",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.5/IPTV-Plus-Setup-1.1.5.exe",
-    "notes":  "Logos-titres TMDB (fiches + accueil), description complete des fiches, degrade du hero d\u0027accueil aligne sur les fiches, bloc titre du hero remonte.",
-    "sha256":  "7d01a849351dd7f3ece64a7f3aea4644995d32d67c75feacf300efb561688193",
+    "version":  "1.1.6",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.6/IPTV-Plus-Setup-1.1.6.exe",
+    "notes":  "Economie KV Cloudflare (PUT seulement sur changement, periodique=GET, backoff), bande-annonce YouTube (fiches + hero, overlay 16:9, repli navigateur), description repliable (voir plus), badges fiche serie longue description, fix logo hero/fiche via recherche TMDB par nom.",
+    "sha256":  "5d61e59a8b2be1ca4e4d01f9a5d861fc0de71055c17641dd52ada6b273a3cf62",
     "revoked":  [
 
                 ],
-    "sig":  "1JmF7zu5Gb1puY1RIj6LoqNlbgk6iW-2kGo5zoM1mmgSaReSMTdp8zZHd1WBCsRXq_AELG5aCz5z-ieC0C3zCg",
+    "sig":  "mqiEFkAlD1tW5i02c8tmNdN0fCCqwWiko_Pipx6Aw7niJ1a2JYzk-Tz6d6szKCT2INkKZFH36SYYt-1D21iyDg",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.5/IPTV-Plus-app-1.1.5.zip",
-                "sha256":  "36d5bc67bd55e66197e7cfaae0cca5e0e795ca6d23bd29c61e04d1b55a1b4e70"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.6/IPTV-Plus-app-1.1.6.zip",
+                "sha256":  "4d468056bb036d4f094592325cb69aa98c168c9a86d124fc441263a6192bad8f"
             },
-    "appSig":  "JsS7hWCuFsdC_SxPUmIAdBT3iSeNGIp_u008BY_pPLi5WoW0iMmUWKuB--4ZeIASN6CIJc89ten_VLhq573IBA"
+    "appSig":  "0EMSvnOM_qgEsd0fYylXAN4hl5Ap1W1meK6YNXjokbJ1diCdupiKfU2C_GCJo8Erf7LzlXP94_3oAfYy_yleAA"
 }
