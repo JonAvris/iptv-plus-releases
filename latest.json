@@ -1,15 +1,15 @@
 {
-    "version":  "1.1.6",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.6/IPTV-Plus-Setup-1.1.6.exe",
-    "notes":  "Economie KV Cloudflare (PUT seulement sur changement, periodique=GET, backoff), bande-annonce YouTube (fiches + hero, overlay 16:9, repli navigateur), description repliable (voir plus), badges fiche serie longue description, fix logo hero/fiche via recherche TMDB par nom.",
-    "sha256":  "5d61e59a8b2be1ca4e4d01f9a5d861fc0de71055c17641dd52ada6b273a3cf62",
+    "version":  "1.1.7",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.7/IPTV-Plus-Setup-1.1.7.exe",
+    "notes":  "Films et series : regroupement par qualite/version - une seule carte par titre, avec choix de la version (4K, FR, VO...) directement dans le lecteur. Chaines regroupees : logo propre sur la carte.",
+    "sha256":  "8f989074d786e71714137fc68d6d723645b2809d0c0c2d5a016e5e11175644da",
     "revoked":  [
 
                 ],
-    "sig":  "mqiEFkAlD1tW5i02c8tmNdN0fCCqwWiko_Pipx6Aw7niJ1a2JYzk-Tz6d6szKCT2INkKZFH36SYYt-1D21iyDg",
+    "sig":  "5O04X2Cr52tX1rMb9jBMteMum9p_t0JmBXihHDx3A5FuJecpuU3NNNirCUuvQFMKMScyCqa1hssfMzH6K12HDA",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.6/IPTV-Plus-app-1.1.6.zip",
-                "sha256":  "4d468056bb036d4f094592325cb69aa98c168c9a86d124fc441263a6192bad8f"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.7/IPTV-Plus-app-1.1.7.zip",
+                "sha256":  "2855106722b4e06b730e723558e14a331b430687e15cffb8db3ea3cebce2edfc"
             },
-    "appSig":  "0EMSvnOM_qgEsd0fYylXAN4hl5Ap1W1meK6YNXjokbJ1diCdupiKfU2C_GCJo8Erf7LzlXP94_3oAfYy_yleAA"
+    "appSig":  "6aAdeT93h4NTzwFczQzATNM1lKfNMmlqsUennMG6PXM5ZaPmLYj1VNBD6Oa_psvPMgxxENXPT3QCwCxalgbUDg"
 }
