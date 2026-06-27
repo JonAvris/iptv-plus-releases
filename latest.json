@@ -1,15 +1,15 @@
 {
-    "version":  "1.1.7",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.7/IPTV-Plus-Setup-1.1.7.exe",
-    "notes":  "Films et series : regroupement par qualite/version - une seule carte par titre, avec choix de la version (4K, FR, VO...) directement dans le lecteur. Chaines regroupees : logo propre sur la carte.",
-    "sha256":  "8f989074d786e71714137fc68d6d723645b2809d0c0c2d5a016e5e11175644da",
+    "version":  "1.1.8",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.8/IPTV-Plus-Setup-1.1.8.exe",
+    "notes":  "Hub Films \u0026 Series par genre (facon Netflix) : categories par genre TMDB (un titre dans TOUS ses genres, films ET series), heros diaporama (5 affiches HD, fondu, fleches), rails Top 10 / Recemment ajoute / Tous les genres / par genre, tri par date de sortie exacte. Fiches : boutons icones (bande-annonce/Vu/A voir), selecteur de version. Cartes uniformisees, posters epures.",
+    "sha256":  "1035f9fcbfc0d7fe404de6dccfd9c87eadb91a6c3391dfdc6b009e0ddf29b0f6",
     "revoked":  [
 
                 ],
-    "sig":  "5O04X2Cr52tX1rMb9jBMteMum9p_t0JmBXihHDx3A5FuJecpuU3NNNirCUuvQFMKMScyCqa1hssfMzH6K12HDA",
+    "sig":  "igGg8HsEPJeQnYkoMZje6BccuZ3OKpasvu4_S9lGSTmgiyFngwLxd2v554s-6__wiPChAMwldtk9CGbTOT8aDw",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.7/IPTV-Plus-app-1.1.7.zip",
-                "sha256":  "2855106722b4e06b730e723558e14a331b430687e15cffb8db3ea3cebce2edfc"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.8/IPTV-Plus-app-1.1.8.zip",
+                "sha256":  "15b807fe4a46366ca090711b43d0627ccc3fb27c3565cec00485b2aa9013674a"
             },
-    "appSig":  "6aAdeT93h4NTzwFczQzATNM1lKfNMmlqsUennMG6PXM5ZaPmLYj1VNBD6Oa_psvPMgxxENXPT3QCwCxalgbUDg"
+    "appSig":  "O4RJOBCObfW6eoD5UCNy0RpWxnZMnYuhchAgBUU04wK7fqFD5-eqV5zuXLXgHN2bWim09xsBNg7JGACf7eZoBw"
 }
