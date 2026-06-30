@@ -1,15 +1,15 @@
 {
-    "version":  "1.1.8",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.8/IPTV-Plus-Setup-1.1.8.exe",
-    "notes":  "Hub Films \u0026 Series par genre (facon Netflix) : categories par genre TMDB (un titre dans TOUS ses genres, films ET series), heros diaporama (5 affiches HD, fondu, fleches), rails Top 10 / Recemment ajoute / Tous les genres / par genre, tri par date de sortie exacte. Fiches : boutons icones (bande-annonce/Vu/A voir), selecteur de version. Cartes uniformisees, posters epures.",
-    "sha256":  "1035f9fcbfc0d7fe404de6dccfd9c87eadb91a6c3391dfdc6b009e0ddf29b0f6",
+    "version":  "1.1.9",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.9/IPTV-Plus-Setup-1.1.9.exe",
+    "notes":  "Films et Series organises par GENRE (facon Netflix) par defaut. Nouveau bouton Qualite preferee dans Chaines. Selecteur de version : langues affichees en entier. Lecteur : libelles audio/sous-titres plus clairs, direct epure. Corrections diverses.",
+    "sha256":  "d7b80b5e94661a99eb7438cbd4d7c47ac9ae1a6e3c1f845e12e68e50a8044b33",
     "revoked":  [
 
                 ],
-    "sig":  "igGg8HsEPJeQnYkoMZje6BccuZ3OKpasvu4_S9lGSTmgiyFngwLxd2v554s-6__wiPChAMwldtk9CGbTOT8aDw",
+    "sig":  "FdlN_CXMXrkMrvks3lqXTlAY1NeE9UwswTK6ervPNNN_X7s8FQQqUOReKyaH57I21MQB7hP39l43JLjR5jznAw",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.8/IPTV-Plus-app-1.1.8.zip",
-                "sha256":  "15b807fe4a46366ca090711b43d0627ccc3fb27c3565cec00485b2aa9013674a"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.1.9/IPTV-Plus-app-1.1.9.zip",
+                "sha256":  "92fa1c7d2ce920b68a99f5d75afdf63760abd4b2df9848b50ffea99cabba765c"
             },
-    "appSig":  "O4RJOBCObfW6eoD5UCNy0RpWxnZMnYuhchAgBUU04wK7fqFD5-eqV5zuXLXgHN2bWim09xsBNg7JGACf7eZoBw"
+    "appSig":  "qG7gipKIjTxgxJlCtg89euKq-y0mA-LSCGsU1VEAZL5WkSqGG62zC2JdA43rjnkb7GpY7VyhG7b_8b8WAUbcCQ"
 }
