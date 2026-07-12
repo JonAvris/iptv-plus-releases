@@ -1,15 +1,15 @@
 {
-    "version":  "1.2.0",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.2.0/IPTV-Plus-Setup-1.2.0.exe",
-    "notes":  "- Nouvel accueil Hub mixte Films/Séries avec diaporama et rails dédiés.\n- Barre supérieure unifiée avec navigation, recherche, tri et menu compte compacts.\n- Corrections de navigation et de recherche, rechargement dev sans cache et alignement du bouton Catégories/Genres.",
-    "sha256":  "e692d787c078a393842884290f63303f5b1a477eebb86980da3d0baad0ec50bf",
+    "version":  "1.2.1",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.2.1/IPTV-Plus-Setup-1.2.1.exe",
+    "notes":  "1.2.1 — optimisations perf (demarrage, cache, accueil, images) + 2 correctifs UI",
+    "sha256":  "466013ecb443a59fab32754409c49742bf6f8b99baa118d67dec94a542710191",
     "revoked":  [
 
                 ],
-    "sig":  "gz9deDdmD5K_aIKET-zBvrtpgepp5EnaAPhA6HxlJwPgbVe0yYisBFIiFiylfoK4JMQCQJjnEZvcmh5C5lQoBQ",
+    "sig":  "H31qN-d-OrmD1FB7N2aPKwlJKBSSGt6LQ4-SfO4M8FPZgG2E4_MkX5OCWo1P-3FAaf3dR86lPZenAZd14JCvBg",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.2.0/IPTV-Plus-app-1.2.0.zip",
-                "sha256":  "a8ced0f20bce1e79c75c43ec2365a49cd95745f151c4ec457f06b92eccbb500a"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.2.1/IPTV-Plus-app-1.2.1.zip",
+                "sha256":  "06b964b391ac125ffd6555d95fd795029e68f72a0809c9fbcd0cdb00a371a5f8"
             },
-    "appSig":  "RUJr6c7TBej1KlkBITKhHKDUiFTSM-PRRS3FG7dMuDyJ-leb8EXP-BjCY3M6hCgz93_MWNArTy3cAM0hnmaHCA"
+    "appSig":  "nbaHB7TuHDF5wxeDi9NwiYidrZeAiLmo0Ozr9G66WWTL3HLlxxA7tIMfc0Cci9N6kX-sqnm1YbH1rKFb54TTDQ"
 }
