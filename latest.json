@@ -1,15 +1,15 @@
 {
-    "version":  "1.2.2",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.2.2/IPTV-Plus-Setup-1.2.2.exe",
-    "notes":  "IPTV Plus 1.2.2 - Top 10 des meilleures nouveautes (note TMDB reelle, 6 derniers mois), liste Ma liste (ex A voir), liste Vue reparee, plus de saut ni de clignotement du listing, halo des cartes de l\u0027accueil aligne",
-    "sha256":  "e8d6360cdedebac128c43b0d38465eac38cc642ecc6ce75e847a031e463382a5",
+    "version":  "1.2.3",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.2.3/IPTV-Plus-Setup-1.2.3.exe",
+    "notes":  "IPTV Plus 1.2.3 - Direct sans coupure : detection de fin de flux (eof-reached) masquee par --keep-open, reconnexion FFmpeg transparente, tampon calibre. Repare aussi l\u0027enchainement automatique des episodes.",
+    "sha256":  "aa22a797b5e9d04644357f20c9be2e05971ae0572193384d5dbb83aff5c819d0",
     "revoked":  [
 
                 ],
-    "sig":  "sfE6rrei_gvdrc94un4IspoTBjzk7KyBfv0ArPt_Z3cA_mgFTu9OfLPL-ub4zovSj6kFL8W3X7JP6vXa6Q2pAA",
+    "sig":  "E4xWuoBFyKyHJ4fLbYWmbAqRpWKNrmUfI9ve7garrFLhesVfsGtwStFGxlAqkBDoPM-DONy9uaIYVBybBZjxAw",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.2.2/IPTV-Plus-app-1.2.2.zip",
-                "sha256":  "89f041e79acdd9938c6d329e72c01b375316839e279d0725720720a5f32c0d6d"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.2.3/IPTV-Plus-app-1.2.3.zip",
+                "sha256":  "7f809a3551c3779bea3c2f4fe5a96347373c1a736a28d077e2f0a392254b76a8"
             },
-    "appSig":  "_3PWS1I5bIyfkQ-8x-6zcbzfu39VKVla101a31xt8EdebSErcgOktdbFBxXbFof6q_ZRaY_kPepWU9tR4mvOBQ"
+    "appSig":  "7ZbwjJjAWYnbDamItPmcyEitOgWuyciT12OxgzYiZ--Ax9-2ByqjO8fbvBFmGfYiwyr8NF5VbA1IkcXtqcTuDA"
 }
