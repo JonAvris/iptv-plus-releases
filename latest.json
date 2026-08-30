@@ -1,15 +1,15 @@
 {
-    "version":  "1.2.3",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.2.3/IPTV-Plus-Setup-1.2.3.exe",
-    "notes":  "IPTV Plus 1.2.3 - Direct sans coupure : detection de fin de flux (eof-reached) masquee par --keep-open, reconnexion FFmpeg transparente, tampon calibre. Repare aussi l\u0027enchainement automatique des episodes.",
-    "sha256":  "aa22a797b5e9d04644357f20c9be2e05971ae0572193384d5dbb83aff5c819d0",
+    "version":  "1.3.0",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.0/Velum-Setup-1.3.0.exe",
+    "notes":  "L\u0027application s\u0027appelle désormais Velum · Nouvelle interface sur tous les écrans · Hub Chaînes : vos chaînes groupées par catégorie · Recherche d\u0027un programme dans le guide TV · Connexion simplifiée et mises à jour plus claires",
+    "sha256":  "d3932e947459088c64a4fed599f987f158b02bc09dde4d0f2a220ae19fe125ff",
     "revoked":  [
 
                 ],
-    "sig":  "E4xWuoBFyKyHJ4fLbYWmbAqRpWKNrmUfI9ve7garrFLhesVfsGtwStFGxlAqkBDoPM-DONy9uaIYVBybBZjxAw",
+    "sig":  "lW9mC5EAfUb0rGjCHjsh49m71cpx8LQH_NGSttRXmt225rYQin2o645OPWdIHAFonDFOIPqt8vkLrGHeL0iiCw",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.2.3/IPTV-Plus-app-1.2.3.zip",
-                "sha256":  "7f809a3551c3779bea3c2f4fe5a96347373c1a736a28d077e2f0a392254b76a8"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.0/Velum-app-1.3.0.zip",
+                "sha256":  "67832d396899337903e78c4b0613617c4b76c2f12e883e39ff7fb48d8df3d2f5"
             },
-    "appSig":  "7ZbwjJjAWYnbDamItPmcyEitOgWuyciT12OxgzYiZ--Ax9-2ByqjO8fbvBFmGfYiwyr8NF5VbA1IkcXtqcTuDA"
+    "appSig":  "IO2Owu2aa_OKnce_1WLQVr48ja04SqcC8_El_-eA0fIN3_eCJOWYjml5P3vWk2uybLjY1lbCtGbcz2HqsuibCQ"
 }
