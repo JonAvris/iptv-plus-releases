@@ -1,15 +1,15 @@
 {
-    "version":  "1.3.0",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.0/Velum-Setup-1.3.0.exe",
-    "notes":  "L\u0027application s\u0027appelle désormais Velum · Nouvelle interface sur tous les écrans · Hub Chaînes : vos chaînes groupées par catégorie · Recherche d\u0027un programme dans le guide TV · Connexion simplifiée et mises à jour plus claires",
-    "sha256":  "d3932e947459088c64a4fed599f987f158b02bc09dde4d0f2a220ae19fe125ff",
+    "version":  "1.3.1",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.1/Velum-Setup-1.3.1.exe",
+    "notes":  "Le bouton Replay revient sur vos chaînes favorites · Beaucoup moins de requêtes au serveur : moins de risques de blocage · Les badges de qualité ne mettent plus en avant que la 4K · L\u0027écran d\u0027installation et l\u0027interface anglaise portent le nom Velum · Corrections d\u0027affichage sur l\u0027accueil, la fiche chaîne et la barre d\u0027outils",
+    "sha256":  "517fed698566463c39c8582402347da8c3a7d740f3983a536698af0229efbe06",
     "revoked":  [
 
                 ],
-    "sig":  "lW9mC5EAfUb0rGjCHjsh49m71cpx8LQH_NGSttRXmt225rYQin2o645OPWdIHAFonDFOIPqt8vkLrGHeL0iiCw",
+    "sig":  "4bem5uZLyJW8KQkqfD383eSYBS4ZFzwafDjWSRTIRZTVfNBH4sfnY5ycomJibiVa_l79lyyygPKillpeSDvgCw",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.0/Velum-app-1.3.0.zip",
-                "sha256":  "67832d396899337903e78c4b0613617c4b76c2f12e883e39ff7fb48d8df3d2f5"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.1/Velum-app-1.3.1.zip",
+                "sha256":  "64fb8347c4da4124cf531d6b8e4206fece370a6b3e236718a69861983bdd0ba3"
             },
-    "appSig":  "IO2Owu2aa_OKnce_1WLQVr48ja04SqcC8_El_-eA0fIN3_eCJOWYjml5P3vWk2uybLjY1lbCtGbcz2HqsuibCQ"
+    "appSig":  "-H5tHHA4BGe28IMz2Sj7nX5BXgCVpRPp4dQOZEk4UupmTIqWrxZblx7KVZeGe_ISTtJqBTmk7N0AbV49uNjiBw"
 }
