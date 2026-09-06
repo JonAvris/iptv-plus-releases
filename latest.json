@@ -1,15 +1,15 @@
 {
-    "version":  "1.3.1",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.1/Velum-Setup-1.3.1.exe",
-    "notes":  "Le bouton Replay revient sur vos chaînes favorites · Beaucoup moins de requêtes au serveur : moins de risques de blocage · Les badges de qualité ne mettent plus en avant que la 4K · L\u0027écran d\u0027installation et l\u0027interface anglaise portent le nom Velum · Corrections d\u0027affichage sur l\u0027accueil, la fiche chaîne et la barre d\u0027outils",
-    "sha256":  "517fed698566463c39c8582402347da8c3a7d740f3983a536698af0229efbe06",
+    "version":  "1.3.2",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.2/Velum-Setup-1.3.2.exe",
+    "notes":  "Barre des taches Windows : nom Velum et une seule icone (AppUserModelId aligne sur les raccourcis). Genres : 2313 series recuperees (nettoyage des noms fournisseur), repli automatique vers les categories du fournisseur si le catalogue n\u0027expose pas de tmdb_id, ecran de progression repare au premier lancement. Interface anglaise completee.",
+    "sha256":  "a650af3db49de4a708ef51028742378efdce60457adea149301d459c8eb8d8d6",
     "revoked":  [
 
                 ],
-    "sig":  "4bem5uZLyJW8KQkqfD383eSYBS4ZFzwafDjWSRTIRZTVfNBH4sfnY5ycomJibiVa_l79lyyygPKillpeSDvgCw",
+    "sig":  "wsy4QoJBcULe-_l2NMIdo30HrtKpSGbXleUU9PiayoO2ZXS5qR1AcHiSQI12qiX9lgFH-b7QIvfE8a82zd-mCg",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.1/Velum-app-1.3.1.zip",
-                "sha256":  "64fb8347c4da4124cf531d6b8e4206fece370a6b3e236718a69861983bdd0ba3"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.2/Velum-app-1.3.2.zip",
+                "sha256":  "9823ff421686b4f0da7c1fe16df879c4112ccd6788691629737b7ded962e8324"
             },
-    "appSig":  "-H5tHHA4BGe28IMz2Sj7nX5BXgCVpRPp4dQOZEk4UupmTIqWrxZblx7KVZeGe_ISTtJqBTmk7N0AbV49uNjiBw"
+    "appSig":  "tteiDJx6_HXM73N1ZNhXxHLAMyoAhjcXtbtNQSMMzoZfiZHSB3ZgjOC_9ptj7bJeYy-8RZZbUQgqK5c5XZK2Cw"
 }
