@@ -1,15 +1,15 @@
 {
-    "version":  "1.3.2",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.2/Velum-Setup-1.3.2.exe",
-    "notes":  "Barre des taches Windows : nom Velum et une seule icone (AppUserModelId aligne sur les raccourcis). Genres : 2313 series recuperees (nettoyage des noms fournisseur), repli automatique vers les categories du fournisseur si le catalogue n\u0027expose pas de tmdb_id, ecran de progression repare au premier lancement. Interface anglaise completee.",
-    "sha256":  "a650af3db49de4a708ef51028742378efdce60457adea149301d459c8eb8d8d6",
+    "version":  "1.3.3",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.3/Velum-Setup-1.3.3.exe",
+    "notes":  "Apercu du direct : la fiche d\u0027une chaine affiche desormais l\u0027image en direct avant de basculer en plein ecran. Passer en plein ecran ne relance pas le flux (une seule connexion utilisee), et fermer la fiche coupe la lecture.",
+    "sha256":  "3eca7e0090eb7ff7e288e2df8009f16aa569e5b694b18c776b0583d90a7c0caf",
     "revoked":  [
 
                 ],
-    "sig":  "wsy4QoJBcULe-_l2NMIdo30HrtKpSGbXleUU9PiayoO2ZXS5qR1AcHiSQI12qiX9lgFH-b7QIvfE8a82zd-mCg",
+    "sig":  "MMSAOM4eJpoA6H8P88G-CYaR5Kpbq50TSG8hUbrXg-KB43BLmHVYx7RrBbK__qxdnH5U9QBm_yZZxVPresFVAg",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.2/Velum-app-1.3.2.zip",
-                "sha256":  "9823ff421686b4f0da7c1fe16df879c4112ccd6788691629737b7ded962e8324"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.3/Velum-app-1.3.3.zip",
+                "sha256":  "d4ef202d0931ccedf7aaaa8bbf412638960729afcc4bb6fd41306411e6111779"
             },
-    "appSig":  "tteiDJx6_HXM73N1ZNhXxHLAMyoAhjcXtbtNQSMMzoZfiZHSB3ZgjOC_9ptj7bJeYy-8RZZbUQgqK5c5XZK2Cw"
+    "appSig":  "Rhtvi1g26O5WpK80Q3iPnguTeQ74f7f6bmlmjfEafhsbwpQgu-YM5ViY5hnFQqM0Y2FttU4hOeGvEyVqhlo8Cw"
 }
