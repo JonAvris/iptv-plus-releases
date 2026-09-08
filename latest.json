@@ -1,15 +1,15 @@
 {
-    "version":  "1.3.4",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.4/Velum-Setup-1.3.4.exe",
-    "notes":  "Hub Chaînes en listing avec volet d\u0027aperçu du direct (programme en cours, à suivre), recherche des chaînes devenue un filtre du listing (nom et programme diffusé, accents ignorés), « EPG » renommé « Guide TV », transitions douces entre les onglets, correction du chargement infini au changement de chaîne.",
-    "sha256":  "d6f38b26956de8e43a8474a9312fd866ea24b849d75777c2a494c6849f227720",
+    "version":  "1.3.5",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.5/Velum-Setup-1.3.5.exe",
+    "notes":  "Correctif : la lecture des films et des séries ne démarrait plus (« Le flux ne répond pas », chargement infini). Les chaînes n\u0027étaient pas concernées.",
+    "sha256":  "c5b363d47f35fd5976399357bfe9debb544be545270de34ed51caf74efe6a186",
     "revoked":  [
 
                 ],
-    "sig":  "AdNQ3ADdZOMnNfuEdeN_VxPhQWpv66mbLZczDyXaZ4BDKVVsq0UDfPB8LKINOZc3JenHSzXNVnbwGaqiFTxHDw",
+    "sig":  "LhMog_2WKK9FpuPW75lnD3OurymowlU1fuqEbsYMltNSkcWIPzJJlWfg0NyhEB9Uh5OVOlzcViaO47Wqv781Ag",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.4/Velum-app-1.3.4.zip",
-                "sha256":  "2a00f56eeb731ab8a7d9a722dcc4eccf98774ec948036c846c92c8f2ee2e4a70"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.5/Velum-app-1.3.5.zip",
+                "sha256":  "067b3c1387af873b24cec89aa94b1af8a602b87da3c73c2253adea0e211cade2"
             },
-    "appSig":  "S88JfDOVpaV8S8CC8zSYM1Bn_5z7B1fJ9onpCBbrbHR1UKFH4pNoxCl_ESti2N4ZpWEHDo8sexA5gQGYcBlsCw"
+    "appSig":  "Ap98NbtnzgRD_92YW9LBDz1gtiK1itjrXwlXhd7h7HZSwCLcnu2wW4qxdBv-kvj1ATUc3YhipT2yk1Iy15QiAA"
 }
