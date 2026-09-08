@@ -1,15 +1,15 @@
 {
-    "version":  "1.3.3",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.3/Velum-Setup-1.3.3.exe",
-    "notes":  "Apercu du direct : la fiche d\u0027une chaine affiche desormais l\u0027image en direct avant de basculer en plein ecran. Passer en plein ecran ne relance pas le flux (une seule connexion utilisee), et fermer la fiche coupe la lecture.",
-    "sha256":  "3eca7e0090eb7ff7e288e2df8009f16aa569e5b694b18c776b0583d90a7c0caf",
+    "version":  "1.3.4",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.4/Velum-Setup-1.3.4.exe",
+    "notes":  "Hub Chaînes en listing avec volet d\u0027aperçu du direct (programme en cours, à suivre), recherche des chaînes devenue un filtre du listing (nom et programme diffusé, accents ignorés), « EPG » renommé « Guide TV », transitions douces entre les onglets, correction du chargement infini au changement de chaîne.",
+    "sha256":  "d6f38b26956de8e43a8474a9312fd866ea24b849d75777c2a494c6849f227720",
     "revoked":  [
 
                 ],
-    "sig":  "MMSAOM4eJpoA6H8P88G-CYaR5Kpbq50TSG8hUbrXg-KB43BLmHVYx7RrBbK__qxdnH5U9QBm_yZZxVPresFVAg",
+    "sig":  "AdNQ3ADdZOMnNfuEdeN_VxPhQWpv66mbLZczDyXaZ4BDKVVsq0UDfPB8LKINOZc3JenHSzXNVnbwGaqiFTxHDw",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.3/Velum-app-1.3.3.zip",
-                "sha256":  "d4ef202d0931ccedf7aaaa8bbf412638960729afcc4bb6fd41306411e6111779"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.4/Velum-app-1.3.4.zip",
+                "sha256":  "2a00f56eeb731ab8a7d9a722dcc4eccf98774ec948036c846c92c8f2ee2e4a70"
             },
-    "appSig":  "Rhtvi1g26O5WpK80Q3iPnguTeQ74f7f6bmlmjfEafhsbwpQgu-YM5ViY5hnFQqM0Y2FttU4hOeGvEyVqhlo8Cw"
+    "appSig":  "S88JfDOVpaV8S8CC8zSYM1Bn_5z7B1fJ9onpCBbrbHR1UKFH4pNoxCl_ESti2N4ZpWEHDo8sexA5gQGYcBlsCw"
 }
