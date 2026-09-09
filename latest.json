@@ -1,15 +1,15 @@
 {
-    "version":  "1.3.5",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.5/Velum-Setup-1.3.5.exe",
-    "notes":  "Correctif : la lecture des films et des séries ne démarrait plus (« Le flux ne répond pas », chargement infini). Les chaînes n\u0027étaient pas concernées.",
-    "sha256":  "c5b363d47f35fd5976399357bfe9debb544be545270de34ed51caf74efe6a186",
+    "version":  "1.3.6",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.6/Velum-Setup-1.3.6.exe",
+    "notes":  "Les nouveautés de votre abonnement remontent à nouveau dans l\u0027accueil et dans la recherche : la liste de vos contenus se réactualise automatiquement en arrière-plan, au lancement puis toutes les 6 heures. Auparavant, une fois mise en cache, elle n\u0027était plus jamais rafraîchie.\n\nUne série retirée de « Reprendre » ne réapparaît plus au lancement suivant : les retraits sont désormais horodatés et se propagent correctement entre vos appareils. Idem pour « Vider Reprendre » et « Vider Vue ».\n",
+    "sha256":  "bba363bb7579a5a1b92e4f7924c6d27fad224f3e59f0c09b83088e5dcce5becc",
     "revoked":  [
 
                 ],
-    "sig":  "LhMog_2WKK9FpuPW75lnD3OurymowlU1fuqEbsYMltNSkcWIPzJJlWfg0NyhEB9Uh5OVOlzcViaO47Wqv781Ag",
+    "sig":  "HrQf61j0pDrTeb7TIuYnsDDNS5ln7e7A4Se2FOh4xmxatm9fYuhJHY07mZ1J_eUUM9fV9bLe_CcDlb0AZL2bDw",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.5/Velum-app-1.3.5.zip",
-                "sha256":  "067b3c1387af873b24cec89aa94b1af8a602b87da3c73c2253adea0e211cade2"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.6/Velum-app-1.3.6.zip",
+                "sha256":  "3cc95e91a0a7518f8b4e3aaaf989990e793b59b1d687ec5ebc80af1c0fea7771"
             },
-    "appSig":  "Ap98NbtnzgRD_92YW9LBDz1gtiK1itjrXwlXhd7h7HZSwCLcnu2wW4qxdBv-kvj1ATUc3YhipT2yk1Iy15QiAA"
+    "appSig":  "_T2mSEmpj4ii4cV5jea9Jtroxq4k1gHPzHLHP4ndXc-qpQ2P_lvCgUie0y9CuLH0Vyp_YyxqC-v1AaAo1-fRAg"
 }
