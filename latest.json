@@ -1,15 +1,15 @@
 {
-    "version":  "1.3.6",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.6/Velum-Setup-1.3.6.exe",
-    "notes":  "Les nouveautés de votre abonnement remontent à nouveau dans l\u0027accueil et dans la recherche : la liste de vos contenus se réactualise automatiquement en arrière-plan, au lancement puis toutes les 6 heures. Auparavant, une fois mise en cache, elle n\u0027était plus jamais rafraîchie.\n\nUne série retirée de « Reprendre » ne réapparaît plus au lancement suivant : les retraits sont désormais horodatés et se propagent correctement entre vos appareils. Idem pour « Vider Reprendre » et « Vider Vue ».\n",
-    "sha256":  "bba363bb7579a5a1b92e4f7924c6d27fad224f3e59f0c09b83088e5dcce5becc",
+    "version":  "1.3.7",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.7/Velum-Setup-1.3.7.exe",
+    "notes":  "Version « fluidité » : l\u0027application consomme beaucoup moins de processeur et de carte graphique au repos et pendant la lecture (le diaporama de l\u0027accueil et l\u0027indicateur de chargement du lecteur tournaient en permanence en arrière-plan).\n\nRecherche instantanée dans Films et Séries (plus de blocage à la première frappe), « Tous les genres » s\u0027ouvre immédiatement, les résultats de recherche ont un en-tête avec le nombre de résultats et un bouton pour revenir au Hub.\n\nChaînes : le programme en cours s\u0027affiche ligne par ligne dès l\u0027ouverture d\u0027une catégorie, le badge « EN DIRECT » n\u0027apparaît que lorsque l\u0027aperçu joue, et les chaînes sans programme communiqué sont plus discrètes.\n\nInfobulles unifiées sur tous les boutons, navigation entre onglets plus vive, journal des erreurs consultable depuis Paramètres › Application, et un grand ménage du code (ancien accueil, styles inutilisés).\n",
+    "sha256":  "dd15ac3884156c780fcaf505b746ad9efec7579bb4cf75beeb42958025322adc",
     "revoked":  [
 
                 ],
-    "sig":  "HrQf61j0pDrTeb7TIuYnsDDNS5ln7e7A4Se2FOh4xmxatm9fYuhJHY07mZ1J_eUUM9fV9bLe_CcDlb0AZL2bDw",
+    "sig":  "v7XYKWkxpoos4fWtr9_07djl4Dam_MVXXu1njt9HnAQQw82RwKHilFpKaABh3APsO8r4y3gHU9Cj4SaBuP2MCg",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.6/Velum-app-1.3.6.zip",
-                "sha256":  "3cc95e91a0a7518f8b4e3aaaf989990e793b59b1d687ec5ebc80af1c0fea7771"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.7/Velum-app-1.3.7.zip",
+                "sha256":  "2d9dcc08d136eb12c3b2059ee2e60e30e3f51280f86f9c7a07432be39d589058"
             },
-    "appSig":  "_T2mSEmpj4ii4cV5jea9Jtroxq4k1gHPzHLHP4ndXc-qpQ2P_lvCgUie0y9CuLH0Vyp_YyxqC-v1AaAo1-fRAg"
+    "appSig":  "CkBidl4f5XoiAalX35h0zMkBVaSvyd48oMSz8qfnL83M2EviLepzBJMIdDh9aJ12HW2xcSFhmyOXQKZOXCIWBg"
 }
