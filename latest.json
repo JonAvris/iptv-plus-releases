@@ -1,15 +1,15 @@
 {
-    "version":  "1.3.7",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.7/Velum-Setup-1.3.7.exe",
-    "notes":  "Version « fluidité » : l\u0027application consomme beaucoup moins de processeur et de carte graphique au repos et pendant la lecture (le diaporama de l\u0027accueil et l\u0027indicateur de chargement du lecteur tournaient en permanence en arrière-plan).\n\nRecherche instantanée dans Films et Séries (plus de blocage à la première frappe), « Tous les genres » s\u0027ouvre immédiatement, les résultats de recherche ont un en-tête avec le nombre de résultats et un bouton pour revenir au Hub.\n\nChaînes : le programme en cours s\u0027affiche ligne par ligne dès l\u0027ouverture d\u0027une catégorie, le badge « EN DIRECT » n\u0027apparaît que lorsque l\u0027aperçu joue, et les chaînes sans programme communiqué sont plus discrètes.\n\nInfobulles unifiées sur tous les boutons, navigation entre onglets plus vive, journal des erreurs consultable depuis Paramètres › Application, et un grand ménage du code (ancien accueil, styles inutilisés).\n",
-    "sha256":  "dd15ac3884156c780fcaf505b746ad9efec7579bb4cf75beeb42958025322adc",
+    "version":  "1.3.8",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.8/Velum-Setup-1.3.8.exe",
+    "notes":  "Reprendre : le prochain épisode d\u0027une série commencée est toujours proposé, y compris lorsque l\u0027épisode précédent a été terminé sur la TV ou après un lancement interrompu. Une série que vous aviez terminée revient en tête de « Reprendre » dès qu\u0027un nouvel épisode paraît, avec une notification. Les cartes sont classées par dernière activité.\n\nReplay : depuis le volet des chaînes, le bouton Replay lance bien le programme choisi (il ne faisait rien).\n\nSynchronisation entre appareils : les changements partent immédiatement (un délai pouvant atteindre deux minutes est corrigé) et l\u0027application n\u0027écrit plus inutilement toutes les deux minutes.\n\nHub Films et Séries : le bouton « Tri » est masqué (il reste disponible dans les catégories et la recherche).",
+    "sha256":  "527cf8e2e858b1347bc3e835a2124e7c3b2571b08b0bc14f1259658ecebf9f80",
     "revoked":  [
 
                 ],
-    "sig":  "v7XYKWkxpoos4fWtr9_07djl4Dam_MVXXu1njt9HnAQQw82RwKHilFpKaABh3APsO8r4y3gHU9Cj4SaBuP2MCg",
+    "sig":  "pgg3Ui7gOF-5NxDzX2TiBu21UtsmRdDabyDIRoNy1NY8LXjVKAXwHt6oNxj2HmM5NwGVRbJRrB4V8EAB-Z56CQ",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.7/Velum-app-1.3.7.zip",
-                "sha256":  "2d9dcc08d136eb12c3b2059ee2e60e30e3f51280f86f9c7a07432be39d589058"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.8/Velum-app-1.3.8.zip",
+                "sha256":  "e48d529e86e4effd6d9a4e7419a19bf058fcddd1bb669de2875c40c30a2ebb8d"
             },
-    "appSig":  "CkBidl4f5XoiAalX35h0zMkBVaSvyd48oMSz8qfnL83M2EviLepzBJMIdDh9aJ12HW2xcSFhmyOXQKZOXCIWBg"
+    "appSig":  "TeSMNqFFSCPTuD4VZnP8uHmAR9Ra_u311P2u1-f0ayEfjzVs6wZUBKAcS5_rDbmQ5zZCqbIBE_QSV1ZGho0ABg"
 }
