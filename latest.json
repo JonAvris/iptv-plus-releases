@@ -1,15 +1,15 @@
 {
-    "version":  "1.3.8",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.8/Velum-Setup-1.3.8.exe",
-    "notes":  "Reprendre : le prochain épisode d\u0027une série commencée est toujours proposé, y compris lorsque l\u0027épisode précédent a été terminé sur la TV ou après un lancement interrompu. Une série que vous aviez terminée revient en tête de « Reprendre » dès qu\u0027un nouvel épisode paraît, avec une notification. Les cartes sont classées par dernière activité.\n\nReplay : depuis le volet des chaînes, le bouton Replay lance bien le programme choisi (il ne faisait rien).\n\nSynchronisation entre appareils : les changements partent immédiatement (un délai pouvant atteindre deux minutes est corrigé) et l\u0027application n\u0027écrit plus inutilement toutes les deux minutes.\n\nHub Films et Séries : le bouton « Tri » est masqué (il reste disponible dans les catégories et la recherche).",
-    "sha256":  "527cf8e2e858b1347bc3e835a2124e7c3b2571b08b0bc14f1259658ecebf9f80",
+    "version":  "1.3.9",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.9/Velum-Setup-1.3.9.exe",
+    "notes":  "Replay : se déplacer dans la barre de progression est quatre fois plus rapide (environ une demi-seconde au lieu de trois secondes). Pendant un déplacement qui demande un peu de temps, « Mise en tampon… » s\u0027affiche au lieu d\u0027une image figée.",
+    "sha256":  "c658c825fe02344b39a783ea6fbb342cbd61545fa6732eb97102a2ea107c2ab8",
     "revoked":  [
 
                 ],
-    "sig":  "pgg3Ui7gOF-5NxDzX2TiBu21UtsmRdDabyDIRoNy1NY8LXjVKAXwHt6oNxj2HmM5NwGVRbJRrB4V8EAB-Z56CQ",
+    "sig":  "F4DCpe2HNWvdx94LO3omLVNAGDIMSAK6riShUWRQ_dNUto5uQq91KKbgkQ4iyOGs2crRl9MYbqnJ4yBNUvYVAQ",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.8/Velum-app-1.3.8.zip",
-                "sha256":  "e48d529e86e4effd6d9a4e7419a19bf058fcddd1bb669de2875c40c30a2ebb8d"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.9/Velum-app-1.3.9.zip",
+                "sha256":  "72ede22c427ff1ac2d88e9bee00ff1d65138ed9a78a8d697e938df3323ff5323"
             },
-    "appSig":  "TeSMNqFFSCPTuD4VZnP8uHmAR9Ra_u311P2u1-f0ayEfjzVs6wZUBKAcS5_rDbmQ5zZCqbIBE_QSV1ZGho0ABg"
+    "appSig":  "fHCGiwdApw0YbAFU1sMAaeVJF-LCKoVGvM2Kn72VtTj9yrkpscqWiKNFTR2ierbiCDrJ1CGjAy5aCbUATL1qBQ"
 }
