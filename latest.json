@@ -1,15 +1,15 @@
 {
-    "version":  "1.3.9",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.9/Velum-Setup-1.3.9.exe",
-    "notes":  "Replay : se déplacer dans la barre de progression est quatre fois plus rapide (environ une demi-seconde au lieu de trois secondes). Pendant un déplacement qui demande un peu de temps, « Mise en tampon… » s\u0027affiche au lieu d\u0027une image figée.",
-    "sha256":  "c658c825fe02344b39a783ea6fbb342cbd61545fa6732eb97102a2ea107c2ab8",
+    "version":  "1.3.10",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.10/Velum-Setup-1.3.10.exe",
+    "notes":  "Direct : le lecteur lit désormais le réseau en continu, sans jamais suspendre la lecture quand son tampon est plein (jusqu\u0027ici, il s\u0027arrêtait de lire jusqu\u0027à cinq secondes d\u0027affilée toutes les trente secondes environ). Le retard sur le direct ne change pas.\n\nDiagnostic : les sauts d\u0027image, mises en tampon, fins de flux et reconnexions du direct sont maintenant consignés dans le journal de l\u0027application (Paramètres › Application), avec l\u0027état du tampon au moment précis. Si une chaîne saute, ce journal permet d\u0027en trouver la cause.",
+    "sha256":  "7452c8be26eac06efc65db79062b16b07bc037f7e9e602328f6b27db73223eb2",
     "revoked":  [
 
                 ],
-    "sig":  "F4DCpe2HNWvdx94LO3omLVNAGDIMSAK6riShUWRQ_dNUto5uQq91KKbgkQ4iyOGs2crRl9MYbqnJ4yBNUvYVAQ",
+    "sig":  "jEzARgiiujfB4C57jp1ihPnzHAsutovey4P4AzY62tRodrWl5Lhqcsr5sMTNe1zrkNq4tV_wAVZYxIvdhnapAA",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.9/Velum-app-1.3.9.zip",
-                "sha256":  "72ede22c427ff1ac2d88e9bee00ff1d65138ed9a78a8d697e938df3323ff5323"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.10/Velum-app-1.3.10.zip",
+                "sha256":  "0c3e77833ce13f98ea7bcaccffa1506a5cd36f0a1365e993feb4ee9905390bea"
             },
-    "appSig":  "fHCGiwdApw0YbAFU1sMAaeVJF-LCKoVGvM2Kn72VtTj9yrkpscqWiKNFTR2ierbiCDrJ1CGjAy5aCbUATL1qBQ"
+    "appSig":  "jUidHFSlpVc0b5TdmYOkTGrl7rHJrLzSMUfbdDulU9CDti2uym4aOoIBPgne1Mx5Amsqqg98VevABs06axvoCQ"
 }
