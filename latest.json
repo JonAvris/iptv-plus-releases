@@ -1,15 +1,15 @@
 {
-    "version":  "1.3.11",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.11/Velum-Setup-1.3.11.exe",
-    "notes":  "Connexion au fournisseur plus sobre : Velum envoie beaucoup moins de requêtes à votre fournisseur (programme en cours des chaînes, volet de zapping, actualisations en arrière-plan) et les étale dans le temps. Certains fournisseurs bloquaient le compte quand trop de requêtes arrivaient d\u0027un coup. Le programme en cours d\u0027une chaîne est désormais gardé jusqu\u0027à la fin de l\u0027émission.\n\nSi le fournisseur refuse l\u0027accès à votre compte, Velum l\u0027indique clairement à l\u0027écran, suspend ses requêtes quelques minutes au lieu d\u0027insister et ne relance plus un direct refusé en boucle. Le bouton « Réessayer » permet un nouvel essai immédiat.\n\nLe journal de l\u0027application (Paramètres › Application) signale désormais une activité anormalement élevée vers le fournisseur.",
-    "sha256":  "36aafc5d0f88cb3ad9a00a103a77bd712b90ca73ad27367fb6a3abe3d05fa474",
+    "version":  "1.3.12",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.12/Velum-Setup-1.3.12.exe",
+    "notes":  "Accueil et Hubs Films et Séries : le diaporama en haut de page ne repasse plus toujours les mêmes cinq titres. Il puise désormais dans une sélection d\u0027une vingtaine de titres tirés de vos listes « Top 10 » et « Récemment ajouté » : cinq nouveaux à chaque visite, puis les cinq suivants à la fin de chaque tour.",
+    "sha256":  "f279ff2afb5f20031028b9eff4e97e1ffc6ca52a060bbcf4d6aaa90f795497bf",
     "revoked":  [
 
                 ],
-    "sig":  "qVpb2SydkhZLz_ILA0Th5yYTb-x-ymKcp2GepQ6SYPsIHzGki_sEBXRZJZFSb_q2q8kJU_CDzM2a0sdl5n2cBg",
+    "sig":  "ihEyShr7P_HhTaU4Xz5Iyo95lneIluOYEp1TUPPrCXugXcp7OYM-BlG2nZt1F6Gtu4JAQfTVD4oE3F3fXVGgAA",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.11/Velum-app-1.3.11.zip",
-                "sha256":  "b73b6b0902ecb229821bfb9c2d2f3c2c3137a13e7b185f40c4e56034a921f732"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.12/Velum-app-1.3.12.zip",
+                "sha256":  "75297e2cf1f4613f451f2881ed73960ccb25b210d79f9cb069d9d0f0ee8991f0"
             },
-    "appSig":  "A90vcAg4wNT_d5NDyas7NYjV8jX4R3eyEBOAoB_o_1q6lOuHoTV5d1J1vR7Vm8_ZqkMwY9LSFdGiT83jVP5RDQ"
+    "appSig":  "UTcsz7SGaYineeACehZDzuK4ECYvC9s-QHYi1y6QByfZlL158VtR7iwiqxV5c-U653dvbdAqxxHKYnJVVOGdAA"
 }
