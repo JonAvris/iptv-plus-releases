@@ -1,15 +1,15 @@
 {
-    "version":  "1.3.12",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.12/Velum-Setup-1.3.12.exe",
-    "notes":  "Accueil et Hubs Films et Séries : le diaporama en haut de page ne repasse plus toujours les mêmes cinq titres. Il puise désormais dans une sélection d\u0027une vingtaine de titres tirés de vos listes « Top 10 » et « Récemment ajouté » : cinq nouveaux à chaque visite, puis les cinq suivants à la fin de chaque tour.",
-    "sha256":  "f279ff2afb5f20031028b9eff4e97e1ffc6ca52a060bbcf4d6aaa90f795497bf",
+    "version":  "1.3.13",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.13/Velum-Setup-1.3.13.exe",
+    "notes":  "Direct : fini les retours en arrière. Certains fournisseurs relancent la connexion du direct toutes les minutes et renvoient les dernières secondes déjà diffusées, et l\u0027image repartait alors 20 à 30 secondes en arrière. Velum recolle désormais le flux sans rien rejouer.\nCatégories : quand votre abonnement préfixe ses catégories d\u0027un code pays (« FR | Sport »), le code s\u0027affiche en petite étiquette à côté du nom.\nParamètres : la page occupe toute la largeur. Catégories, Contenu et Lecture passent sur deux colonnes, et les listes de catégories défilent dans leur propre colonne.\nMises à jour : la vérification réessaie d\u0027elle-même et indique la cause en cas d\u0027échec, le bouton « Réessayer » fonctionne, et la fenêtre « Velum est à jour » est redessinée.\nLecteur : les menus du haut (profil, tri, qualité) passent devant l\u0027aperçu d\u0027une chaîne au lieu de se cacher derrière.\n",
+    "sha256":  "4efd29466f2abd784f47ffdf72d5edec506f5d71596fbf317c0ff8aef42b0cb3",
     "revoked":  [
 
                 ],
-    "sig":  "ihEyShr7P_HhTaU4Xz5Iyo95lneIluOYEp1TUPPrCXugXcp7OYM-BlG2nZt1F6Gtu4JAQfTVD4oE3F3fXVGgAA",
+    "sig":  "uX9FHrbr1qYGOuAXC86_pwth3v5aM7XYrR6TMgNzITePA6eJhoeaN8435JZCFjO5FmcQdmOF2s4F9ysgVxmXAA",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.12/Velum-app-1.3.12.zip",
-                "sha256":  "75297e2cf1f4613f451f2881ed73960ccb25b210d79f9cb069d9d0f0ee8991f0"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.13/Velum-app-1.3.13.zip",
+                "sha256":  "5f4094ee1d42844d92087b3f67b3bd2e23807199bc3fba187e2ede9dd328cbde"
             },
-    "appSig":  "UTcsz7SGaYineeACehZDzuK4ECYvC9s-QHYi1y6QByfZlL158VtR7iwiqxV5c-U653dvbdAqxxHKYnJVVOGdAA"
+    "appSig":  "oxDXQGxE2aQ4PTVNo-Wmi8DbvP68OsEhZQny72wEbDIgs4Du-Yneeu4Xg6gnr3-b_VhloT1KA92fTiLERe-HBA"
 }
