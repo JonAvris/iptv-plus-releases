@@ -1,15 +1,15 @@
 {
-    "version":  "1.3.14",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.14/Velum-Setup-1.3.14.exe",
-    "notes":  "Nouvel accueil : quatre grandes portes, TV, Sport, Films et Séries. Un clic et vous êtes dans la bonne section, sans rien attendre au démarrage.\nTV et Sport : deux onglets séparés. Les chaînes s\u0027affichent en cartes (logo, programme en cours, avancement) et les catégories en tuiles aux couleurs de leur pays. En quittant le lecteur, l\u0027aperçu de la chaîne continue là où vous l\u0027avez laissé.\nFilms et Séries : une nouvelle page de section. Le grand visuel présente l\u0027affiche choisie dans Reprendre, Top 10 ou Ma liste, en volets côte à côte. Les genres deviennent des tuiles illustrées qui s\u0027ouvrent sur place, avec le lien « Nouveautés » pour les sorties des six derniers mois.\nTop 10 : les mieux notés parmi les sorties des trois derniers mois, notes mises à jour régulièrement.\nNavigation : Échap revient d\u0027un niveau à la fois (fiche, liste du genre, genres, accueil). Les rails défilent en boucle et se calent sur une affiche quand vous les faites glisser.\nReprendre et Ma liste : un titre que votre fournisseur ne propose plus est masqué, et réapparaît s\u0027il revient.\nMise en page : la page s\u0027adapte à la taille de la fenêtre, colonnes de genres comprises.\n",
-    "sha256":  "224a7e1644de73b144e19d037b3bf23ca779190f474583d418e8770697384fd4",
+    "version":  "1.4.0",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.0/Velum-Setup-1.4.0.exe",
+    "notes":  "Guide TV : l\u0027en-tête d\u0027une chaîne reprend les couleurs de son pays, avec son logo, et le programme en cours ressort d\u0027un contour coloré. Les mentions vides du type « No Description Info » ne s\u0027affichent plus.\nTV et Sport : le nom de la chaîne et son programme restent collés sous l\u0027aperçu, et la liste « À suivre » n\u0027affiche plus de ligne coupée, même dans une petite fenêtre.\nFilms et Séries : les affiches d\u0027un genre occupent toute la largeur, avec des marges égales des deux côtés. Seul le volet ouvert (Reprendre, Top 10, Ma liste) est souligné, comme le genre ou le lien sélectionné.\n",
+    "sha256":  "e0045b3579265e217c7b1808a54e70e4d595a065b63aae625c8e5f52abe6574b",
     "revoked":  [
 
                 ],
-    "sig":  "giPF1N0-1xfa10GVF9KSdEnmyaJVFPwex0mnIIAcNVj3RC0ecMK1p7lR4pd4PXP1GzY5GOUZ4EImGtn_dqCjBA",
+    "sig":  "J5oCcSru0QP28x3WZ5Lad-a6-SeQosUvVB9TBWsE1K_6I7FCdn73mCC_9jPeJ-RCt8olC3QItWgOPLMI3fT8BA",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.14/Velum-app-1.3.14.zip",
-                "sha256":  "40f79b5712aadc767092327a428ab6dee6be654cd203728fdefea89ddf38d00f"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.0/Velum-app-1.4.0.zip",
+                "sha256":  "63c88bd1b905cdfb532ff79c47bb866d0405b4bcad4d026bd294671d395b585b"
             },
-    "appSig":  "CkyiVhATOjtO13g_PNXW-1ZFNzfG6fq0zkfgfxo1Uz656dy4LpBCefPUfpWm4tpFxlAn56No8d21IzgQ0vcMBA"
+    "appSig":  "CTfqhK-7wqHW6jydpK8rpytfpvY8fIfNYYiPxitCg_Jcai8owBEf5OBLkrgngR0-ys1rT-bLwg4_qEiZdxDUAQ"
 }
