@@ -1,15 +1,15 @@
 {
-    "version":  "1.3.13",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.13/Velum-Setup-1.3.13.exe",
-    "notes":  "Direct : fini les retours en arrière. Certains fournisseurs relancent la connexion du direct toutes les minutes et renvoient les dernières secondes déjà diffusées, et l\u0027image repartait alors 20 à 30 secondes en arrière. Velum recolle désormais le flux sans rien rejouer.\nCatégories : quand votre abonnement préfixe ses catégories d\u0027un code pays (« FR | Sport »), le code s\u0027affiche en petite étiquette à côté du nom.\nParamètres : la page occupe toute la largeur. Catégories, Contenu et Lecture passent sur deux colonnes, et les listes de catégories défilent dans leur propre colonne.\nMises à jour : la vérification réessaie d\u0027elle-même et indique la cause en cas d\u0027échec, le bouton « Réessayer » fonctionne, et la fenêtre « Velum est à jour » est redessinée.\nLecteur : les menus du haut (profil, tri, qualité) passent devant l\u0027aperçu d\u0027une chaîne au lieu de se cacher derrière.\n",
-    "sha256":  "4efd29466f2abd784f47ffdf72d5edec506f5d71596fbf317c0ff8aef42b0cb3",
+    "version":  "1.3.14",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.14/Velum-Setup-1.3.14.exe",
+    "notes":  "Nouvel accueil : quatre grandes portes, TV, Sport, Films et Séries. Un clic et vous êtes dans la bonne section, sans rien attendre au démarrage.\nTV et Sport : deux onglets séparés. Les chaînes s\u0027affichent en cartes (logo, programme en cours, avancement) et les catégories en tuiles aux couleurs de leur pays. En quittant le lecteur, l\u0027aperçu de la chaîne continue là où vous l\u0027avez laissé.\nFilms et Séries : une nouvelle page de section. Le grand visuel présente l\u0027affiche choisie dans Reprendre, Top 10 ou Ma liste, en volets côte à côte. Les genres deviennent des tuiles illustrées qui s\u0027ouvrent sur place, avec le lien « Nouveautés » pour les sorties des six derniers mois.\nTop 10 : les mieux notés parmi les sorties des trois derniers mois, notes mises à jour régulièrement.\nNavigation : Échap revient d\u0027un niveau à la fois (fiche, liste du genre, genres, accueil). Les rails défilent en boucle et se calent sur une affiche quand vous les faites glisser.\nReprendre et Ma liste : un titre que votre fournisseur ne propose plus est masqué, et réapparaît s\u0027il revient.\nMise en page : la page s\u0027adapte à la taille de la fenêtre, colonnes de genres comprises.\n",
+    "sha256":  "224a7e1644de73b144e19d037b3bf23ca779190f474583d418e8770697384fd4",
     "revoked":  [
 
                 ],
-    "sig":  "uX9FHrbr1qYGOuAXC86_pwth3v5aM7XYrR6TMgNzITePA6eJhoeaN8435JZCFjO5FmcQdmOF2s4F9ysgVxmXAA",
+    "sig":  "giPF1N0-1xfa10GVF9KSdEnmyaJVFPwex0mnIIAcNVj3RC0ecMK1p7lR4pd4PXP1GzY5GOUZ4EImGtn_dqCjBA",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.13/Velum-app-1.3.13.zip",
-                "sha256":  "5f4094ee1d42844d92087b3f67b3bd2e23807199bc3fba187e2ede9dd328cbde"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.3.14/Velum-app-1.3.14.zip",
+                "sha256":  "40f79b5712aadc767092327a428ab6dee6be654cd203728fdefea89ddf38d00f"
             },
-    "appSig":  "oxDXQGxE2aQ4PTVNo-Wmi8DbvP68OsEhZQny72wEbDIgs4Du-Yneeu4Xg6gnr3-b_VhloT1KA92fTiLERe-HBA"
+    "appSig":  "CkyiVhATOjtO13g_PNXW-1ZFNzfG6fq0zkfgfxo1Uz656dy4LpBCefPUfpWm4tpFxlAn56No8d21IzgQ0vcMBA"
 }
