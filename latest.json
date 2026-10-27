@@ -1,15 +1,15 @@
 {
-    "version":  "1.4.0",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.0/Velum-Setup-1.4.0.exe",
-    "notes":  "Guide TV : l\u0027en-tête d\u0027une chaîne reprend les couleurs de son pays, avec son logo, et le programme en cours ressort d\u0027un contour coloré. Les mentions vides du type « No Description Info » ne s\u0027affichent plus.\nTV et Sport : le nom de la chaîne et son programme restent collés sous l\u0027aperçu, et la liste « À suivre » n\u0027affiche plus de ligne coupée, même dans une petite fenêtre.\nFilms et Séries : les affiches d\u0027un genre occupent toute la largeur, avec des marges égales des deux côtés. Seul le volet ouvert (Reprendre, Top 10, Ma liste) est souligné, comme le genre ou le lien sélectionné.\n",
-    "sha256":  "e0045b3579265e217c7b1808a54e70e4d595a065b63aae625c8e5f52abe6574b",
+    "version":  "1.4.1",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.1/Velum-Setup-1.4.1.exe",
+    "notes":  "TV et Sport : le volet d\u0027aperçu affiche toujours la chaîne choisie (il restait parfois sur « Sélectionnez une chaîne »).\nFavoris : chaque chaîne favorite rassemble toutes ses versions, avec son guide et son replay ; l\u0027étoile la retire en une fois.\nGuide TV : les jours passés s\u0027arrêtent à la durée de replay proposée par votre abonnement, l\u0027avenir va jusqu\u0027à demain ; le replay n\u0027est proposé que sur ce qui est encore disponible ; le jour en cours reste visible dans la barre des jours ; le guide se rouvre sans attendre et retente une fois s\u0027il ne répond pas.\nBoutons Lire et Infos, et actions des fiches, à la nouvelle présentation ; bouton du compte simplifié.\nFenêtre de mise à jour redessinée.\n",
+    "sha256":  "23d1e911e861468144160b1eb0018b5b4a86f23742b303fdc8da11d0e8cb0a4f",
     "revoked":  [
 
                 ],
-    "sig":  "J5oCcSru0QP28x3WZ5Lad-a6-SeQosUvVB9TBWsE1K_6I7FCdn73mCC_9jPeJ-RCt8olC3QItWgOPLMI3fT8BA",
+    "sig":  "YKFUezJru5E2hC7q7hkzFWRCOgnci9jNeRv2FfBa3Dwoq2HKHFOvuZJYNsfm0Ln6ZxfiSZZe-93gWyVcBTGHAA",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.0/Velum-app-1.4.0.zip",
-                "sha256":  "63c88bd1b905cdfb532ff79c47bb866d0405b4bcad4d026bd294671d395b585b"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.1/Velum-app-1.4.1.zip",
+                "sha256":  "ef6f13c15e66919bedb8a3d36426fe7ae26588b9da9e24b4107f363899ca9681"
             },
-    "appSig":  "CTfqhK-7wqHW6jydpK8rpytfpvY8fIfNYYiPxitCg_Jcai8owBEf5OBLkrgngR0-ys1rT-bLwg4_qEiZdxDUAQ"
+    "appSig":  "EoPcyMFiG2OaG9ajwcWQkJ3pFFuYe5nDe-5yL3RSBVgJZJitiW2xe5Mvm2xhMzLV2vMv1YOlSkG2X4sAHOSrCQ"
 }
