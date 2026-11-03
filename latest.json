@@ -1,15 +1,15 @@
 {
-    "version":  "1.4.1",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.1/Velum-Setup-1.4.1.exe",
-    "notes":  "TV et Sport : le volet d\u0027aperçu affiche toujours la chaîne choisie (il restait parfois sur « Sélectionnez une chaîne »).\nFavoris : chaque chaîne favorite rassemble toutes ses versions, avec son guide et son replay ; l\u0027étoile la retire en une fois.\nGuide TV : les jours passés s\u0027arrêtent à la durée de replay proposée par votre abonnement, l\u0027avenir va jusqu\u0027à demain ; le replay n\u0027est proposé que sur ce qui est encore disponible ; le jour en cours reste visible dans la barre des jours ; le guide se rouvre sans attendre et retente une fois s\u0027il ne répond pas.\nBoutons Lire et Infos, et actions des fiches, à la nouvelle présentation ; bouton du compte simplifié.\nFenêtre de mise à jour redessinée.\n",
-    "sha256":  "23d1e911e861468144160b1eb0018b5b4a86f23742b303fdc8da11d0e8cb0a4f",
+    "version":  "1.4.2",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.2/Velum-Setup-1.4.2.exe",
+    "notes":  "Affiches de films et séries épurées : plus de pastille 4K (la version se choisit toujours au lecteur, la fiche l\u0027indique).\nGenres : les titres d\u0027animation se rangent dans Animation (et Familial ou Kids), plus dans Action, Comédie ou Fantastique.\n",
+    "sha256":  "116b459e048d8091b7c6553435857c3782f76bb779abeb28ecf8fe4470f2e8f9",
     "revoked":  [
 
                 ],
-    "sig":  "YKFUezJru5E2hC7q7hkzFWRCOgnci9jNeRv2FfBa3Dwoq2HKHFOvuZJYNsfm0Ln6ZxfiSZZe-93gWyVcBTGHAA",
+    "sig":  "HQgqOjFaaIJ6uS0ux3fInddbI5txUXPR-mcKdSHisimTKQfAGvMkTPOJh6tI1Ojr8gymoDxw-S0tYRKVYsb2Dw",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.1/Velum-app-1.4.1.zip",
-                "sha256":  "ef6f13c15e66919bedb8a3d36426fe7ae26588b9da9e24b4107f363899ca9681"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.2/Velum-app-1.4.2.zip",
+                "sha256":  "23fb453910fe869a8a9ac6607585c8a99d3f63e4584bc01809fdf00bc363efa8"
             },
-    "appSig":  "EoPcyMFiG2OaG9ajwcWQkJ3pFFuYe5nDe-5yL3RSBVgJZJitiW2xe5Mvm2xhMzLV2vMv1YOlSkG2X4sAHOSrCQ"
+    "appSig":  "ns6YFwevJBPTFFXtuYkgJFvTcdDE9Io1lj-vWYJ63fSoIAa7T3vDYxM-dpWkgovYNNLtIFHmcnhzYvncn1LoBQ"
 }
