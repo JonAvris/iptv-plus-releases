@@ -1,15 +1,15 @@
 {
-    "version":  "1.4.2",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.2/Velum-Setup-1.4.2.exe",
-    "notes":  "Affiches de films et séries épurées : plus de pastille 4K (la version se choisit toujours au lecteur, la fiche l\u0027indique).\nGenres : les titres d\u0027animation se rangent dans Animation (et Familial ou Kids), plus dans Action, Comédie ou Fantastique.\n",
-    "sha256":  "116b459e048d8091b7c6553435857c3782f76bb779abeb28ecf8fe4470f2e8f9",
+    "version":  "1.4.3",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.3/Velum-Setup-1.4.3.exe",
+    "notes":  "Synchronisation : une série retirée de « Reprendre » sur un autre appareil (iPhone, TV) ne revient plus à l\u0027ouverture du PC. Son épisode suivant réapparaît dès qu\u0027un nouvel épisode est regardé.\n",
+    "sha256":  "0f6f88c65a39996033aa0fae78ff7be574b26009043d082f467da9a48e52736a",
     "revoked":  [
 
                 ],
-    "sig":  "HQgqOjFaaIJ6uS0ux3fInddbI5txUXPR-mcKdSHisimTKQfAGvMkTPOJh6tI1Ojr8gymoDxw-S0tYRKVYsb2Dw",
+    "sig":  "qpZ72fl_LhGJ2rx7j4JLif1e88R0FVQqvRatBdzHcqh9sRqAsp7ztdIsjKh0fZ3Y8cz66QA9t3IotFuRCaVFCg",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.2/Velum-app-1.4.2.zip",
-                "sha256":  "23fb453910fe869a8a9ac6607585c8a99d3f63e4584bc01809fdf00bc363efa8"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.3/Velum-app-1.4.3.zip",
+                "sha256":  "2ddf1cb693eb027cf01255a3736799ca9622a91b447350a952d5ce7a1761ceb5"
             },
-    "appSig":  "ns6YFwevJBPTFFXtuYkgJFvTcdDE9Io1lj-vWYJ63fSoIAa7T3vDYxM-dpWkgovYNNLtIFHmcnhzYvncn1LoBQ"
+    "appSig":  "w87hmHqzL5NM0b0ycsCQcyb7wlrzmXW-28Eo3WmPTduOIyxoXfqssruPCJRwFKyvkarEnKyzGQsWxl8mzuPNBw"
 }
