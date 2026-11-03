@@ -1,15 +1,15 @@
 {
-    "version":  "1.4.3",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.3/Velum-Setup-1.4.3.exe",
-    "notes":  "Synchronisation : une série retirée de « Reprendre » sur un autre appareil (iPhone, TV) ne revient plus à l\u0027ouverture du PC. Son épisode suivant réapparaît dès qu\u0027un nouvel épisode est regardé.\n",
-    "sha256":  "0f6f88c65a39996033aa0fae78ff7be574b26009043d082f467da9a48e52736a",
+    "version":  "1.4.4",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.4/Velum-Setup-1.4.4.exe",
+    "notes":  "Velum 1.4.4\n\n• Direct plus fiable : quand une version d\u0027une chaîne ne répond pas, Velum passe d\u0027elle-même à une autre version de la même chaîne, la qualité juste en dessous d\u0027abord.\n• Signal instable : si les images arrivent trop lentement, Velum passe à la qualité inférieure et l\u0027indique à l\u0027écran.\n• Les pastilles de qualité ne s\u0027affichent plus sur les chaînes : la qualité réellement lue reste visible dans le sélecteur du lecteur.\n",
+    "sha256":  "d0aa956596fbdc771a9832c431253ec65d3210e5adf5d5da622f3dbe8bd392e4",
     "revoked":  [
 
                 ],
-    "sig":  "qpZ72fl_LhGJ2rx7j4JLif1e88R0FVQqvRatBdzHcqh9sRqAsp7ztdIsjKh0fZ3Y8cz66QA9t3IotFuRCaVFCg",
+    "sig":  "9huxSmh7Y4r3hnCg3j8RkP-biOcXSL1d8FYSVN64qzZGSb7x9e5jpc59CIA22bWbmHXg2WbMhMbzirMe9mpvCQ",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.3/Velum-app-1.4.3.zip",
-                "sha256":  "2ddf1cb693eb027cf01255a3736799ca9622a91b447350a952d5ce7a1761ceb5"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.4/Velum-app-1.4.4.zip",
+                "sha256":  "015bb97a9d333a16db5a8e13996f83e8efad97a156dd6dafad6ef145a29d323e"
             },
-    "appSig":  "w87hmHqzL5NM0b0ycsCQcyb7wlrzmXW-28Eo3WmPTduOIyxoXfqssruPCJRwFKyvkarEnKyzGQsWxl8mzuPNBw"
+    "appSig":  "8H3rX5mclg7WKo7FUyt0csudr63vW4f-cTOSFp4GUAhDtXbHhw-nYxb5QiTo8C856kk_ufJQ0MuH3smi0rloAA"
 }
