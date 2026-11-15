@@ -1,15 +1,15 @@
 {
-    "version":  "1.4.4",
-    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.4/Velum-Setup-1.4.4.exe",
-    "notes":  "Velum 1.4.4\n\n• Direct plus fiable : quand une version d\u0027une chaîne ne répond pas, Velum passe d\u0027elle-même à une autre version de la même chaîne, la qualité juste en dessous d\u0027abord.\n• Signal instable : si les images arrivent trop lentement, Velum passe à la qualité inférieure et l\u0027indique à l\u0027écran.\n• Les pastilles de qualité ne s\u0027affichent plus sur les chaînes : la qualité réellement lue reste visible dans le sélecteur du lecteur.\n",
-    "sha256":  "d0aa956596fbdc771a9832c431253ec65d3210e5adf5d5da622f3dbe8bd392e4",
+    "version":  "1.4.5",
+    "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.5/Velum-Setup-1.4.5.exe",
+    "notes":  "Velum 1.4.5\n\n• Listes de chaînes nettement plus rapides : une catégorie de plusieurs centaines de chaînes s\u0027ouvre presque instantanément.\n• Direct : quand le fournisseur refuse l\u0027accès, Velum cesse de réessayer et l\u0027indique clairement, dans le lecteur comme dans l\u0027aperçu. « Réessayer » relance dès que l\u0027accès revient.\n• Direct : reconnexion mieux maîtrisée quand une source est en difficulté, et un seul rechargement au réveil de l\u0027ordinateur.\n• Lecteur d\u0027écran : la compatibilité se règle dans Paramètres › Application (« Accessibilité »). Velum l\u0027active de lui-même s\u0027il détecte NVDA, le Narrateur ou JAWS.\n• Fenêtres de l\u0027application (fiche, mise à jour) entièrement utilisables au clavier.\n• Interface en anglais complétée ; corrections de fiabilité et de sécurité.\n",
+    "sha256":  "b004a0d061ea3a776fd94bec8d3b0a6cdb2c0bc2bbc87713d04396b7118a9a4c",
     "revoked":  [
 
                 ],
-    "sig":  "9huxSmh7Y4r3hnCg3j8RkP-biOcXSL1d8FYSVN64qzZGSb7x9e5jpc59CIA22bWbmHXg2WbMhMbzirMe9mpvCQ",
+    "sig":  "1shp7tGaDUhR_CWWYSGtAL2vbC3Br6eRLCmHsLjEeYDy26Hw5JyYY0l_aJLpMo7DCD7_ltd-jf9d6GcswU8CBw",
     "app":  {
-                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.4/Velum-app-1.4.4.zip",
-                "sha256":  "015bb97a9d333a16db5a8e13996f83e8efad97a156dd6dafad6ef145a29d323e"
+                "url":  "https://github.com/JonAvris/iptv-plus-releases/releases/download/v1.4.5/Velum-app-1.4.5.zip",
+                "sha256":  "a94e721d11a5aeab34674138ae8f64c0ade19d8f1d0b3d5f025aaf3ed21ab885"
             },
-    "appSig":  "8H3rX5mclg7WKo7FUyt0csudr63vW4f-cTOSFp4GUAhDtXbHhw-nYxb5QiTo8C856kk_ufJQ0MuH3smi0rloAA"
+    "appSig":  "fpkIQ4GLx2HKS4YzUybBfF7T6WicoUa7RzRF-rPgiR2OpL7wVZN9UXPmm9XDHyGT-eo0CGANAuJ9-v94IDY7DA"
 }
